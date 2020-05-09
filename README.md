@@ -5,6 +5,5 @@ This is the finalized version of my project fortune teller, you can replicate at
 * A Micro:bit Sensor Shield V2.0
 * A Micro:bit Buzzor module
 * A Micro:bit Battery Case 6-cell AA
+* 3 jumper wires
 <br/>
-
-
